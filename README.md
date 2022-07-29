@@ -1,2 +1,2 @@
 # Nani
-Sociaware Game Jam
+Sociaware Game Jam - Muhammed Ali Açıkgöz
